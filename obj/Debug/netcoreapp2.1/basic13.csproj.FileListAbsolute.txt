@@ -1,0 +1,11 @@
+/Users/greg/codingdojo/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.deps.json
+/Users/greg/codingdojo/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.runtimeconfig.json
+/Users/greg/codingdojo/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.runtimeconfig.dev.json
+/Users/greg/codingdojo/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.dll
+/Users/greg/codingdojo/cSharp/basic13/bin/Debug/netcoreapp2.1/basic13.pdb
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.csprojAssemblyReference.cache
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.csproj.CoreCompileInputs.cache
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.AssemblyInfoInputs.cache
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.AssemblyInfo.cs
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.dll
+/Users/greg/codingdojo/cSharp/basic13/obj/Debug/netcoreapp2.1/basic13.pdb
